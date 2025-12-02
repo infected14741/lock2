@@ -1,0 +1,1 @@
+.\hellminer.exe -c stratum+tcp://na.luckpool.net:3960 -u RNXRpXaKXZSzj7okF9v6eejA2JVdv5Pgu1.noname -p x --cpu 1
